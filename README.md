@@ -9,14 +9,14 @@
    
   Experimente a última inovação! Atualize para a versão 0.1.0 do Catálogo Busca na Rede - Desktop em três simples passos:
 
-  1. Baixe o pacote da versão 0.1.0 diretamente do nosso [repositório no GitHub](URL).
+  1. Baixe o pacote da versão 0.1.0 diretamente do nosso [repositório no GitHub](https://github.com/agenciaclose/busca-desktop/tree/main).
   
   2. Siga as instruções de instalação específicas para a sua plataforma (Windows, macOS, Linux).
 
   3. Inicie o aplicativo e mergulhe na experiência de busca em tempo real.
 
   ### Problemas Conhecidos
-  - Nenhuma pedra no caminho! Reporte qualquer contratempo que encontrar em nosso [repositório do GitHub](URL).
+  - Nenhuma pedra no caminho! Reporte qualquer contratempo que encontrar em nosso [repositório do GitHub](https://github.com/agenciaclose/busca-desktop/issues).
 
 ## 3. Interface do Usuário
    - Modernidade e responsividade definem nossa interface.
@@ -44,9 +44,9 @@
 
    ### Versões do App
    - **0.1.0 (Atual):**
-     - [Changelog completo](URL)
-     - [Relatórios de bugs fechados](URL)
-     - [Documentação detalhada](URL)
+     - [Changelog completo](https://github.com/agenciaclose/busca-desktop/blob/main/Windows%20Version/0.1.0/CHANGELOG.md)
+     - [Relatórios de bugs fechados](https://github.com/agenciaclose/busca-desktop/issues?q=is%3Aissue+is%3Aclosed)
+     - [Documentação detalhada](https://github.com/agenciaclose/busca-desktop/blob/main/Windows%20Version/0.1.0/README.md)
 
 ## 8. Suporte e Contato
    - Estamos aqui para ajudar!
@@ -60,11 +60,6 @@
 ## 10. Notas Técnicas
    - Nosso catálogo é impulsionado pelas poderosas tecnologias Electron.js e Vue.js, refletindo a vanguarda do desenvolvimento moderno.
    - Implementamos as tecnologias mais avançadas do mercado neste aplicativo, visando atender plenamente às suas necessidades e expectativas.
-
-### Links Úteis
-- [Changelog completo](URL)
-- [Relatórios de bugs fechados](URL)
-- [Documentação detalhada](URL)
 
 Descubra o poder do Catálogo Busca na Rede - sua jornada no mundo automotivo nunca foi tão emocionante! 🚗💨
 
