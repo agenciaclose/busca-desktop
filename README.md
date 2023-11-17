@@ -7,7 +7,7 @@
 
 ## 2. Instalação
    
-  Experimente a última inovação! Atualize para a versão 0.1.2 do Catálogo Busca na Rede - Desktop em três simples passos:
+  Experimente a última inovação! Atualize para a versão 0.1.3 do Catálogo Busca na Rede - Desktop em três simples passos:
 
   1. Baixe o pacote da versão 0.1.2 diretamente do nosso [repositório de releases no GitHub](https://github.com/agenciaclose/busca-desktop/releases).
   
