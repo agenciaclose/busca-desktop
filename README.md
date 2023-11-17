@@ -40,10 +40,10 @@
    - Atualize-se com a versão mais recente para a melhor experiência.
 
    ### Versões do App
-   - **0.1.2 (Atual):**
-     - [Changelog completo](https://github.com/agenciaclose/busca-desktop/blob/main/Windows%20Version/0.1.2/CHANGELOG.md)
+   - **0.1.3 (Atual):**
+     - [Changelog completo](https://github.com/agenciaclose/busca-desktop/blob/main/Windows%20Version/0.1.3/CHANGELOG.md)
      - [Relatórios de bugs fechados](https://github.com/agenciaclose/busca-desktop/issues?q=is%3Aissue+is%3Aclosed)
-     - [Documentação detalhada](https://github.com/agenciaclose/busca-desktop/blob/main/Windows%20Version/0.1.2/README.md)
+     - [Documentação detalhada](https://github.com/agenciaclose/busca-desktop/blob/main/Windows%20Version/0.1.3/README.md)
 
 ## 8. Suporte e Contato
    - Estamos aqui para ajudar!
