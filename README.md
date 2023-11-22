@@ -29,7 +29,7 @@
    - Desvende o poder da busca.
    - Refine resultados com filtros inteligentes.
    - Domine parâmetros de pesquisa para uma experiência personalizada.
-   - Agora, a barra de pesquisa apresenta sugestões para ajudar o usuário a encontrar o produto desejado.
+   - Agora, a barra de pesquisa apresenta sugestões para ajudar o usuário encontrar o produto desejado.
 
 ## 6. Download Sincronizado
    - Ao entrar no catálogo, o download de atualizações inicia automaticamente.
