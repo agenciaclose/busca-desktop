@@ -7,9 +7,9 @@
 
 ## 2. Instalação
    
-  Experimente a última inovação! Atualize para a versão 0.1.3 do Catálogo Busca na Rede - Desktop em três simples passos:
+  Experimente a última inovação! Atualize para a versão 0.1.5 do Catálogo Busca na Rede - Desktop em três simples passos:
 
-  1. Baixe o pacote da versão 0.1.3 diretamente do nosso [repositório de releases no GitHub](https://github.com/agenciaclose/busca-desktop/releases).
+  1. Baixe o pacote da versão 0.1.5 diretamente do nosso [repositório de releases no GitHub](https://github.com/agenciaclose/busca-desktop/releases).
   
   2. Siga as instruções de instalação específicas para a sua plataforma (Windows, macOS, Linux).
 
@@ -29,32 +29,37 @@
    - Desvende o poder da busca.
    - Refine resultados com filtros inteligentes.
    - Domine parâmetros de pesquisa para uma experiência personalizada.
+   - Agora, a barra de pesquisa apresenta sugestões para ajudar o usuário a encontrar o produto desejado.
 
-## 6. Compatibilidade
+## 6. Download Sincronizado
+   - Ao entrar no catálogo, o download de atualizações inicia automaticamente.
+   - Um popup verde no canto inferior esquerdo do aplicativo exibe a % de download e o nome do catálogo em andamento.
+
+## 7. Compatibilidade
    - Suporte abrangente para montadoras e modelos de carros.
    - Mantenha-se informado sobre as atualizações de compatibilidade para estar sempre à frente.
 
-## 7. Atualizações e Versões
+## 8. Atualizações e Versões
    - Acompanhe nosso ritmo de inovação.
    - Leia sobre novas funcionalidades, correções de bugs e melhorias em cada versão.
    - Atualize-se com a versão mais recente para a melhor experiência.
 
    ### Versões do App
-   - **0.1.3 (Atual):**
-     - [Changelog completo](https://github.com/agenciaclose/busca-desktop/blob/main/Windows%20Version/0.1.3/CHANGELOG.md)
+   - **0.1.5 (Atual):**
+     - [Changelog completo](https://github.com/agenciaclose/busca-desktop/blob/main/Windows%20Version/0.1.5/CHANGELOG.md)
      - [Relatórios de bugs fechados](https://github.com/agenciaclose/busca-desktop/issues?q=is%3Aissue+is%3Aclosed)
-     - [Documentação detalhada](https://github.com/agenciaclose/busca-desktop/blob/main/Windows%20Version/0.1.3/README.md)
+     - [Documentação detalhada](https://github.com/agenciaclose/busca-desktop/blob/main/Windows%20Version/0.1.5/README.md)
 
-## 8. Suporte e Contato
+## 9. Suporte e Contato
    - Estamos aqui para ajudar!
    - Encontre informações de contato para suporte rápido.
    - Explore nossas FAQs e participe das discussões em fóruns ou comunidades de usuários.
 
-## 9. Requisitos Legais
+## 10. Requisitos Legais
    - Conheça nossos termos.
    - Consulte nossa licença de uso para garantir uma experiência tranquila.
 
-## 10. Notas Técnicas
+## 11. Notas Técnicas
    - Nosso catálogo é impulsionado pelas poderosas tecnologias Electron.js e Vue.js, refletindo a vanguarda do desenvolvimento moderno.
    - Implementamos as tecnologias mais avançadas do mercado neste aplicativo, visando atender plenamente às suas necessidades e expectativas.
 

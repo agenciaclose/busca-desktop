@@ -1,6 +1,6 @@
 # Release Notes - Catálogo Busca na Rede - Desktop (Versão de testes 0.1.3)
 
-## Data da Release: [17.11.2023]
+## Data da Release: [18.11.2023]
 
 ### Resumo
 A Terceira versão do Catálogo Busca na Rede - Desktop está aqui! Esta versão traz um sistema de busca em tempo real, o objetivo principal é facilitar o acesso à busca de peças automotivas de diversas empresas.

@@ -1,12 +1,12 @@
-# Release Notes - Catálogo Busca na Rede - Desktop (Versão de testes 0.1.0)
+# Release Notes - Catálogo Busca na Rede - Desktop (Versão de testes 0.1.2)
 
-## Data da Release: [16.11.2023]
+## Data da Release: [17.11.2023]
 
 ### Resumo
 A Segunda versão do Catálogo Busca na Rede - Desktop está aqui! Esta versão traz um sistema de busca em tempo real, o objetivo principal é facilitar o acesso à busca de peças automotivas de diversas empresas.
 
 ### Observação:
-  Essa 0.1.0 é uma versão de testes, porém ainda não foram implementados alguns recursos.
+  Essa 0.1.2 é uma versão de testes, porém ainda não foram implementados alguns recursos.
 
 ### Mudanças Principais
 - Implementação do sistema de busca em tempo real.
@@ -25,9 +25,9 @@ A Segunda versão do Catálogo Busca na Rede - Desktop está aqui! Esta versão 
 - Esta versão representa um marco importante no desenvolvimento do Catálogo Busca na Rede - Desktop, tornando-o uma ferramenta poderosa para encontrar peças automotivas de forma rápida e eficiente.
 
 ## Como Atualizar
-Para atualizar para a versão 0.1.0 do Catálogo Busca na Rede - Desktop, siga estas etapas:
+Para atualizar para a versão 0.1.2 do Catálogo Busca na Rede - Desktop, siga estas etapas:
 
-1. Acesse o [repositório no GitHub](URL) e baixe o pacote da versão 0.1.0.
+1. Acesse o [repositório no GitHub](URL) e baixe o pacote da versão 0.1.2.
 
 2. Siga as instruções de instalação para a sua plataforma (Windows, macOS, Linux).
 
