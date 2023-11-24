@@ -3,7 +3,7 @@
 ## Data da Release: [22.11.2023]
 
 ### Resumo
-A quinta versão do Catálogo Busca na Rede - Desktop, versão de testes 0.1.5, está disponível! Esta versão traz um sistema de busca em tempo real, tornando a busca de peças automotivas mais acessível e eficiente.
+Catálogo Busca na Rede - Desktop, versão de testes 0.1.5, está disponível! Esta versão traz um sistema de busca em tempo real, tornando a busca de peças automotivas mais acessível e eficiente.
 
 ### Observação:
 Esta versão de testes 0.1.5 apresenta implementações significativas, incluindo recursos em fase experimental.

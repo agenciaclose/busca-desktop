@@ -3,7 +3,7 @@
 ## Data da Release: [17.11.2023]
 
 ### Resumo
-A Segunda versão do Catálogo Busca na Rede - Desktop está aqui! Esta versão traz um sistema de busca em tempo real, o objetivo principal é facilitar o acesso à busca de peças automotivas de diversas empresas.
+Catálogo Busca na Rede - Desktop está aqui! Esta versão traz um sistema de busca em tempo real, o objetivo principal é facilitar o acesso à busca de peças automotivas de diversas empresas.
 
 ### Observação:
   Essa 0.1.2 é uma versão de testes, porém ainda não foram implementados alguns recursos.
