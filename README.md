@@ -7,9 +7,9 @@
 
 ## 2. Instalação
    
-  Experimente a última inovação! Atualize para a versão 0.1.6 do Catálogo Busca na Rede - Desktop em três simples passos:
+  Experimente a última inovação! Atualize para a versão 0.1.7 do Catálogo Busca na Rede - Desktop em três simples passos:
 
-  1. Baixe o pacote da versão 0.1.6 diretamente do nosso [repositório de releases no GitHub](https://github.com/agenciaclose/busca-desktop/releases).
+  1. Baixe o pacote da versão 0.1.7 diretamente do nosso [repositório de releases no GitHub](https://github.com/agenciaclose/busca-desktop/releases).
   
   2. Siga as instruções de instalação específicas para a sua plataforma (Windows, macOS, Linux).
 
@@ -29,7 +29,7 @@
    - Desvende o poder da busca.
    - Refine resultados com filtros inteligentes.
    - Domine parâmetros de pesquisa para uma experiência personalizada.
-   - Agora, a barra de pesquisa apresenta sugestões para ajudar o usuário encontrar o produto desejado.
+   - Agora, a barra de pesquisa apresenta sugestões dinâmicas para ajudar o usuário a encontrar o produto desejado.
 
 ## 6. Download Sincronizado
    - Ao entrar no catálogo, o download de atualizações inicia automaticamente.
@@ -45,10 +45,10 @@
    - Atualize-se com a versão mais recente para a melhor experiência.
 
    ### Versões do App
-   - **0.1.6 (Atual):**
-     - [Changelog completo](https://github.com/agenciaclose/busca-desktop/blob/main/Windows%20Version/0.1.6/CHANGELOG.md)
+   - **0.1.7 (Atual):**
+     - [Changelog completo](https://github.com/agenciaclose/busca-desktop/blob/main/Windows%20Version/0.1.7/CHANGELOG.md)
      - [Relatórios de bugs fechados](https://github.com/agenciaclose/busca-desktop/issues?q=is%3Aissue+is%3Aclosed)
-     - [Documentação detalhada](https://github.com/agenciaclose/busca-desktop/blob/main/Windows%20Version/0.1.6/README.md)
+     - [Documentação detalhada](https://github.com/agenciaclose/busca-desktop/blob/main/Windows%20Version/0.1.7/README.md)
 
 ## 9. Suporte e Contato
    - Estamos aqui para ajudar!
