@@ -1,4 +1,4 @@
-# Catálogo Busca na Rede - Documentação (Versão 0.1.8)
+# Catálogo Busca na Rede - Documentação (Versão 0.2.0)
 
 ## 1. Introdução
 - Bem-vindo ao Catálogo Busca na Rede, o app Desktop mais rápido e funcional do mercado automotivo.
@@ -7,9 +7,9 @@
 
 ## 2. Instalação
    
-  Experimente a última inovação! Atualize para a versão 0.1.8 do Catálogo Busca na Rede - Desktop em três simples passos:
+  Experimente a última inovação! Atualize para a versão 0.2.0 do Catálogo Busca na Rede - Desktop em três simples passos:
 
-  1. Baixe o pacote da versão 0.1.8 diretamente do nosso [repositório de releases no GitHub](https://github.com/agenciaclose/busca-desktop/releases).
+  1. Baixe o pacote da versão 0.2.0 diretamente do nosso [repositório de releases no GitHub](https://github.com/agenciaclose/busca-desktop/releases).
   
   2. Siga as instruções de instalação específicas para a sua plataforma (Windows, macOS, Linux).
 
@@ -43,10 +43,10 @@
 ## 8. Atualizações e Versões
    - Acompanhe nosso ritmo de inovação.
    - Leia sobre novas funcionalidades, correções de bugs e melhorias em cada versão.
-   - Atualize-se com a versão mais recente (0.1.8) para a melhor experiência.
-     - [Changelog completo](https://github.com/agenciaclose/busca-desktop/blob/main/Windows%20Version/0.1.8/CHANGELOG.md)
+   - Atualize-se com a versão mais recente (0.2.0) para a melhor experiência.
+     - [Changelog completo](https://github.com/agenciaclose/busca-desktop/blob/main/Windows%20Version/0.2.0/CHANGELOG.md)
      - [Relatórios de bugs fechados](https://github.com/agenciaclose/busca-desktop/issues?q=is%3Aissue+is%3Aclosed)
-     - [Documentação detalhada](https://github.com/agenciaclose/busca-desktop/blob/main/Windows%20Version/0.1.8/README.md)
+     - [Documentação detalhada](https://github.com/agenciaclose/busca-desktop/blob/main/Windows%20Version/0.2.0/README.md)
 
 ## 9. Suporte e Contato
    - Estamos aqui para ajudar!
