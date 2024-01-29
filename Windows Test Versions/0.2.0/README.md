@@ -30,4 +30,4 @@ Para migrar para a versão 0.2.0 do Catálogo Busca na Rede - Desktop, siga as e
 ## Comentários
 Estamos ansiosos para receber seus comentários sobre a versão 0.2.0. Caso encontre problemas ou queira fornecer feedback, por favor, relate no [repositório do GitHub](URL) para nos ajudar a continuar aprimorando o aplicativo.
 
----
+----
