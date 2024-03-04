@@ -1,4 +1,4 @@
-# Catálogo Busca na Rede - Documentação (Versão 0.2.0)
+# Catálogo Busca na Rede - Documentação (Versão 0.1.11)
 
 ## 1. Introdução
 - Bem-vindo ao Catálogo Busca na Rede, o app Desktop mais rápido e funcional do mercado automotivo.
