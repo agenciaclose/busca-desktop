@@ -1,0 +1,8 @@
+{
+  "linux-x64-prod": {
+    "update": "https://github.com/agenciaclose/busca-desktop/releases/download/linux-x64-prod-0.3.4/buscanarede-0.3.4.AppImage",
+    "install": "https://github.com/agenciaclose/busca-desktop/releases/download/linux-x64-prod-0.3.4/buscanarede-0.3.4.AppImage",
+    "version": "0.3.4",
+    "sha256": "f8b4e1d78bef157f4094a8a2e2412410c7823f2febc713704caa7aa8ec534968"
+  }
+}
